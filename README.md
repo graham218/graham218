@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Web and and System development
+- 🔭 I’m currently working on ...Web and System development
 - 🌱 I’m currently learning ...React, React Native, Java Swing, Springboot, Kotlin, Django, Flutter, Laravel, C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...more Development Ideas
