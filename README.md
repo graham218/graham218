@@ -1,7 +1,7 @@
 ## Hey 👋, I'm BILL GRAHAM PEACEMAKER  
   
 
-<a href="https://instagram.com/i" target="_blank">
+<a href="https://www.instagram.com/grahambill011/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/graham218" target="_blank">
