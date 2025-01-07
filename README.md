@@ -9,7 +9,8 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=28&duration=2000&pause=1500&color=F79923&background=FFFFFF00&width=435&lines=Hi+I'm+Aaryaveer;Learning+Flutter+currently...)](https://git.io/typing-svg)-->
 
-<!-- ## Hi! 👋, I'm Bill Graham Peacemaker from Nairobi, Kenya
+<!-- ## Hi! 👋, I'm Bill Graham Peacemaker from Nairobi, Kenya.</br>
+I handle Computer Programming and Networking tasks
 #### Learning...-->
 
 ## Skills
