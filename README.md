@@ -37,7 +37,7 @@ I handle Computer Programming and Networking tasks
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/graham218)
 &nbsp;&nbsp;&nbsp; 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graham218/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bill-graham-peacemaker/)
 &nbsp;&nbsp;&nbsp; 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grahambill011)
 &nbsp;&nbsp;&nbsp; 
