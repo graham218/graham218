@@ -32,7 +32,7 @@ I handle Computer Programming and Networking tasks
 -->
 
 ## Research
-[![IEEE](https://img.shields.io/badge/IEEE-%20-white?style=for-the-badge&color=white&labelColor=blue&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10581401)
+[![IEEE](https://img.shields.io/badge/IEEE-%20-white?style=for-the-badge&color=white&labelColor=blue&logo=ieee&logoColor=white)](https://github.com/graham218)
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/graham218)
