@@ -55,8 +55,8 @@
 | **🧠 Emotion Classifier** | Deep learning emotion recognition from facial cues using convolutional networks. | `PyTorch` • `OpenCV` • `Scikit-Learn` |
 | **📊 Admin Dashboard** | Cross-platform Flutter dashboard for analytics, reports, and user management. | `Flutter` • `Riverpod` • `REST API` |
 | **☁️ Cloud Inventory API** | Cloud-native inventory management system with scalable microservices. | `Express.js` • `MongoDB` • `AWS` |
-| **🌐 DevSpace Portal** | Personal developer hub with interactive resume, GitHub integration, and live stats. | `React` • `Next.js` • `GraphQL` |
-| **🤖 Vision.AI** | Computer vision toolkit for anomaly detection in CCTV streams. | `Python` • `TensorFlow` • `OpenCV` |
+| **🌐 DevSpace Portal** | A personal developer hub with interactive resumes, GitHub integrations, and live project stats. | `React` • `Next.js` • `GraphQL` |
+| **🤖 Vision.AI** | Computer vision toolkit for anomaly detection in CCTV streams. | `Python` • `OpenCV` • `TensorFlow` |
 
 </div>
 
@@ -128,15 +128,15 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Activity Snake
 
 <div align="center">
-  <img src="https://github.com/AKR-2803/AKR-2803/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="90%"/>
 </div>
 
 ---
 
-## 💻 Coding Life
+## ⚡ Developer Life
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/graham218/graham218/main/coding-life-banner.svg" alt="Eat Sleep Code Repeat" width="100%" style="border-radius:20px;box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
