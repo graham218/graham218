@@ -1,7 +1,7 @@
 <!-- 🌟 GITHUB PROFILE README FOR BILL GRAHAM PEACEMAKER 🌟 -->
 
 <div align="center" style="background: linear-gradient(120deg, #000428, #004e92); padding: 50px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <img src="https://avatars.githubusercontent.com/u/130077932?v=4" width="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 20px rgba(255,255,255,0.3);" alt="Bill Graham Peacemaker"/>
+  <img src="https://github.com/graham218.png" width="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 20px rgba(255,255,255,0.3);" alt="Bill Graham Peacemaker"/>
   
   <h1 style="color:#E0F7FA;">Hey Techies! 👋, I'm <span style="color:#00FFFF;">Bill Graham Peacemaker</span> from Nairobi, Kenya.</h1>
   <p style="font-size:1.1rem;color:#C0C0C0;">💻 Computer Programmer | 🌐 Network Engineer | 🧠 Machine Learning Enthusiast</p>
