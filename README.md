@@ -96,7 +96,7 @@
 
 ## 🎓 Education & Certifications
 
-🎓 **B.Sc. ICT Management** — *Maseno University (2019–2024)*  
+🎓 **B.Sc. ICT Management** — *Maseno University (2019–2023)*  
 
 **Certifications:**
 ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat-square&logo=cisco)
