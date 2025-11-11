@@ -104,6 +104,69 @@
 </div>
 
 ---
+## 🐍 Animation
+
+<div align="center">
+  <!-- 🧠 Professional Coding Skills SVG Animation -->
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00c6ff">
+        <animate attributeName="stop-color" values="#00c6ff;#0072ff;#00c6ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0072ff">
+        <animate attributeName="stop-color" values="#0072ff;#00c6ff;#0072ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0f1c"/>
+  <rect y="250" width="1200" height="50" fill="url(#gradient)" opacity="0.1"/>
+
+  <g font-family="monospace" fill="white" font-size="24" text-anchor="middle">
+    <text x="600" y="80" fill="url(#gradient)" font-size="36" font-weight="bold">Bill Graham Peacemaker</text>
+    <text x="600" y="120" opacity="0.7">Professional Full-Stack Developer</text>
+  </g>
+
+  <!-- Animated skill bars -->
+  <g>
+    <rect x="200" y="160" width="800" height="12" rx="6" fill="#1b2338" />
+    <rect x="200" y="160" width="700" height="12" rx="6" fill="url(#gradient)">
+      <animate attributeName="width" values="0;700;680;700" dur="4s" repeatCount="indefinite" />
+    </rect>
+    <text x="160" y="170" fill="#fff" font-size="16" font-family="monospace">JavaScript</text>
+  </g>
+
+  <g>
+    <rect x="200" y="190" width="800" height="12" rx="6" fill="#1b2338" />
+    <rect x="200" y="190" width="600" height="12" rx="6" fill="url(#gradient)">
+      <animate attributeName="width" values="0;600;590;600" dur="4.5s" repeatCount="indefinite" />
+    </rect>
+    <text x="160" y="200" fill="#fff" font-size="16" font-family="monospace">Node.js</text>
+  </g>
+
+  <g>
+    <rect x="200" y="220" width="800" height="12" rx="6" fill="#1b2338" />
+    <rect x="200" y="220" width="500" height="12" rx="6" fill="url(#gradient)">
+      <animate attributeName="width" values="0;500;480;500" dur="5s" repeatCount="indefinite" />
+    </rect>
+    <text x="160" y="230" fill="#fff" font-size="16" font-family="monospace">React</text>
+  </g>
+
+  <g>
+    <rect x="200" y="250" width="800" height="12" rx="6" fill="#1b2338" />
+    <rect x="200" y="250" width="400" height="12" rx="6" fill="url(#gradient)">
+      <animate attributeName="width" values="0;400;380;400" dur="5.5s" repeatCount="indefinite" />
+    </rect>
+    <text x="160" y="260" fill="#fff" font-size="16" font-family="monospace">Flutter</text>
+  </g>
+
+</svg>
+
+</div>
+
+---
 
 ## 🔗 Connect with Me
 
