@@ -1,28 +1,15 @@
 <!-- 🌟 GITHUB PROFILE HEADER FOR BILL GRAHAM PEACEMAKER 🌟 -->
+<div align="center">
 
-<div align="center" style="background: linear-gradient(120deg, #000428, #004e92); padding: 50px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+[![Profile Picture](https://avatars.githubusercontent.com/u/104074651?v=4)](https://github.com/graham218)
 
-  <!-- 👤 Profile Picture (Clickable, Live GitHub Image) -->
-  <a href="https://github.com/graham218" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/104074651?v=4" 
-         alt="Bill Graham Peacemaker" 
-         width="160" 
-         style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 25px rgba(0,255,255,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 40px rgba(0,255,255,0.9)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.5)';" />
-  </a>
+### Hey Techies! 👋 I'm **Bill Graham Peacemaker** from Nairobi, Kenya  
+💻 *Computer Programmer* | 🌐 *Network Engineer* | 🧠 *Machine Learning Enthusiast*  
 
-  <!-- 💬 Intro -->
-  <h1 style="color:#E0F7FA;">Hey Techies! 👋, I'm <span style="color:#00FFFF;">Bill Graham Peacemaker</span> from Nairobi, Kenya.</h1>
-  <p style="font-size:1.1rem;color:#C0C0C0;">💻 Computer Programmer | 🌐 Network Engineer | 🧠 Machine Learning Enthusiast</p>
+📧 [grahambill011@gmail.com](mailto:grahambill011@gmail.com)  
+📱 [+254 790 613 916](tel:+254790613916)
 
-  <!-- 📧 Contact -->
-  <p>
-    📧 <a href="mailto:grahambill011@gmail.com" style="color:#FFD700;">grahambill011@gmail.com</a>  
-    &nbsp; | &nbsp; 📱 <a href="tel:+254790613916" style="color:#FFD700;">+254 790 613 916</a>
-  </p>
 </div>
-
 
 ---
 
