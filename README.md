@@ -104,6 +104,11 @@
 </div>
 
 ---
+## 💻 My Coding Life
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/graham218/graham218/main/coding-life-banner.svg" alt="Eat Sleep Code Repeat" width="100%">
+</div>
 
 ---
 
