@@ -1,16 +1,28 @@
-<!-- 🌟 GITHUB PROFILE README FOR BILL GRAHAM PEACEMAKER 🌟 -->
+<!-- 🌟 GITHUB PROFILE HEADER FOR BILL GRAHAM PEACEMAKER 🌟 -->
 
 <div align="center" style="background: linear-gradient(120deg, #000428, #004e92); padding: 50px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <img src="https://github.com/graham.218.png" width="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 20px rgba(255,255,255,0.3);" alt="Bill Graham Peacemaker"/>
-  
+
+  <!-- 👤 Profile Picture (Clickable, Live GitHub Image) -->
+  <a href="https://github.com/graham218" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/104074651?v=4" 
+         alt="Bill Graham Peacemaker" 
+         width="160" 
+         style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 25px rgba(0,255,255,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 40px rgba(0,255,255,0.9)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.5)';" />
+  </a>
+
+  <!-- 💬 Intro -->
   <h1 style="color:#E0F7FA;">Hey Techies! 👋, I'm <span style="color:#00FFFF;">Bill Graham Peacemaker</span> from Nairobi, Kenya.</h1>
   <p style="font-size:1.1rem;color:#C0C0C0;">💻 Computer Programmer | 🌐 Network Engineer | 🧠 Machine Learning Enthusiast</p>
-  
+
+  <!-- 📧 Contact -->
   <p>
     📧 <a href="mailto:grahambill011@gmail.com" style="color:#FFD700;">grahambill011@gmail.com</a>  
     &nbsp; | &nbsp; 📱 <a href="tel:+254790613916" style="color:#FFD700;">+254 790 613 916</a>
   </p>
 </div>
+
 
 ---
 
@@ -97,10 +109,16 @@
 
 ---
 
-## 🐍 Contribution Graph
 
+<!-- 🐍 GITHUB CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
 </div>
 
 ---
