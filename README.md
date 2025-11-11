@@ -131,7 +131,7 @@
 ## 🐍 Activity Snake
 
 <div align="center">
-  <img src="https://github.com/graham218github-contribution-grid-snake-dark.svg" alt="Github Snake animation" width="90%"/>
+  <img src="https://github.com/graham218/graham218/blob/main/github-contribution-grid-snake-dark.svg" alt="Github Snake animation" width="90%"/>
 </div>
 
 ---
@@ -139,7 +139,7 @@
 ## ⚡ Developer Life
 
 <div align="center">
-  <img src="https://github.com/graham218/graham218/blob/main/github-contribution-grid-snake-dark.svg" alt="Eat Sleep Code Repeat" width="100%" style="border-radius:20px;box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
+  <img src="https://github.com/graham218/graham218/blob/main/coding-life-banner.svg" alt="Eat Sleep Code Repeat" width="100%" style="border-radius:20px;box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
 </div>
 
 ---
