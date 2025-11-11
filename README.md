@@ -131,7 +131,7 @@
 ## 🐍 Activity Snake
 
 <div align="center">
-  <img src="https://github.com/graham218github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img src="https://github.com/graham218github-contribution-grid-snake-dark.svg" alt="Github Snake animation" width="90%"/>
 </div>
 
 ---
