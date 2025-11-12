@@ -127,15 +127,6 @@
 </div>
 
 ---
-
-<!-- ## 🐍 Activity Snake
-
-<div align="center">
-  <img src="https://github.com/graham218/graham218/blob/main/github-contribution-grid-snake-dark.svg" alt="Github Snake animation" width="90%"/>
-</div> -->
-
----
-
 <div align="center">
 
 ### 🐍 Watch my code contributions grow!
