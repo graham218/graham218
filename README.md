@@ -144,6 +144,16 @@
 
 ---
 
+<div align="center">
+
+### 🐍 Watch my code contributions grow!
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/graham218/graham218/main/assets/github-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
