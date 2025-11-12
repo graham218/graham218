@@ -1,0 +1,39 @@
+name: Generate GitHub Snake Dark SVG
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # runs daily at 21:00 UTC (midnight Nairobi)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # required to push the generated file
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && pip install -r scripts/requirements.txt
+
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          USERNAME: graham218
+        run: |
+          python scripts/generate_snake_dark.py --output assets/github-snake-dark.svg
+
+      - name: Commit & push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake-dark.svg || true
+          git commit -m "chore: update github-snake-dark.svg [skip ci]" || echo "no changes to commit"
+          git push origin HEAD:${{ github.ref_name }} || echo "push failed"
