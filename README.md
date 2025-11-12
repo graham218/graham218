@@ -128,19 +128,11 @@
 
 ---
 
-## 🐍 Activity Snake
+<!-- ## 🐍 Activity Snake
 
 <div align="center">
   <img src="https://github.com/graham218/graham218/blob/main/github-contribution-grid-snake-dark.svg" alt="Github Snake animation" width="90%"/>
-</div>
-
----
-
-## ⚡ Developer Life
-
-<div align="center">
-  <img src="https://github.com/graham218/graham218/blob/main/coding-life-banner.svg" alt="Eat Sleep Code Repeat" width="100%" style="border-radius:20px;box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
-</div>
+</div> -->
 
 ---
 
@@ -150,6 +142,14 @@
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/graham218/graham218/main/assets/github-snake-dark.svg)
 
+</div>
+
+---
+
+## ⚡ Developer Life
+
+<div align="center">
+  <img src="https://github.com/graham218/graham218/blob/main/coding-life-banner.svg" alt="Eat Sleep Code Repeat" width="100%" style="border-radius:20px;box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
 </div>
 
 ---
