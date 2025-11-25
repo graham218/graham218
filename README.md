@@ -136,6 +136,9 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=graham218&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graham218&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=graham218&theme=tokyonight&hide_border=true&border_radius=15)
 
 </div>
