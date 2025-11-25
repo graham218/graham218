@@ -1,3 +1,5 @@
+<!-- Updated README with Kubernetes, Docker, CI/CD, DevOps, GitHub Actions, GitLab CI and advanced badges. -->
+
 <!-- 🌌 FUTURISTIC GITHUB PROFILE README FOR BILL GRAHAM PEACEMAKER 🌌 -->
 
 <div align="center" style="background: linear-gradient(135deg, #000428, #004e92); padding: 60px 40px; border-radius: 25px; box-shadow: 0 10px 40px rgba(0,0,0,0.7);">
@@ -24,8 +26,8 @@
 
 ## 🧭 About Me
 
-🚀 A **tech visionary** passionate about bridging **software and network engineering** to create secure, intelligent, and scalable ecosystems.  
-🌍 Focused on **IoT, cloud, and AI-driven innovation** to solve Africa’s toughest infrastructure challenges.  
+🚀 A **tech visionary** passionate about bridging **software, DevOps, and network engineering** to create secure, intelligent, and scalable ecosystems.  
+🌍 Focused on **IoT, cloud-native engineering, CI/CD automation, and AI-driven innovation** to solve Africa’s toughest infrastructure challenges.  
 💡 *"Innovation isn’t luck — it’s curiosity applied with precision."*
 
 ---
@@ -41,6 +43,18 @@
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%2C%20Firebase%2C%20Netlify-FF9900?style=for-the-badge&logo=amazonaws)
 ![Security](https://img.shields.io/badge/Security-Cybr%20OOPs%2C%20Sophos%2C%20CCNA-0052CC?style=for-the-badge&logo=cisco)
 
+### 🐳 DevOps, Cloud‑Native & Automation
+
+![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-Charts-0F1689?style=for-the-badge&logo=helm)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-FF6C37?style=for-the-badge&logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Pipelines-2088FF?style=for-the-badge&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI/CD-Runners-FC6D26?style=for-the-badge&logo=gitlab)
+![Terraform](https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![NGINX](https://img.shields.io/badge/Reverse%20Proxy-NGINX-009639?style=for-the-badge&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux)
+
 </div>
 
 ---
@@ -55,7 +69,8 @@
 | **🧠 Emotion Classifier** | Deep learning emotion recognition from facial cues using convolutional networks. | `PyTorch` • `OpenCV` • `Scikit-Learn` |
 | **📊 Admin Dashboard** | Cross-platform Flutter dashboard for analytics, reports, and user management. | `Flutter` • `Riverpod` • `REST API` |
 | **☁️ Cloud Inventory API** | Cloud-native inventory management system with scalable microservices. | `Express.js` • `MongoDB` • `AWS` |
-| **🌐 DevSpace Portal** | A personal developer hub with interactive resumes, GitHub integrations, and live project stats. | `React` • `Next.js` • `GraphQL` |
+| **🔧 DevOps Pipeline Suite** | CI/CD pipelines with GitHub Actions + Docker + Kubernetes deployment. | `Docker` • `K8s` • `GitHub Actions` • `Helm` |
+| **🌐 DevSpace Portal** | Personal developer hub with live GitHub integrations and cloud automation. | `Next.js` • `GraphQL` • `Node.js` |
 | **🤖 Vision.AI** | Computer vision toolkit for anomaly detection in CCTV streams. | `Python` • `OpenCV` • `TensorFlow` |
 
 </div>
@@ -104,6 +119,8 @@
 ![Python](https://img.shields.io/badge/Python%20Programming-FFD43B?style=flat-square&logo=python&logoColor=306998)
 ![Sophos](https://img.shields.io/badge/SOPHOS%20Cybersecurity-002F6C?style=flat-square&logo=sophos)
 ![Cybr OOps](https://img.shields.io/badge/Cybr%20OOPs-4B8BBE?style=flat-square&logo=cyberdefenders)
+![Docker Cert](https://img.shields.io/badge/Docker%20Container%20Expert-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20Fundamentals-326CE5?style=flat-square&logo=kubernetes)
 
 ---
 
@@ -112,7 +129,7 @@
 🏅 **Top Student** — Computer Networks, Maseno University (2022)  
 🚀 **Finalist**, National Cybersecurity Challenge (2023)  
 💡 **Built Smart Water Portal** — IoT + Flutter + Firebase  
-🌍 **Open Source Contributor** — AI/ML & Flutter (2024–2025)  
+🌍 **Open Source Contributor** — AI/ML, DevOps & Flutter (2024–2025)  
 
 ---
 
@@ -159,3 +176,4 @@
 
 ⭐ <b style="color:#00FFFF;">“Keep building, keep learning, keep impacting.”</b>  
 💫 *“Technology is only as powerful as the purpose behind it.”*
+
